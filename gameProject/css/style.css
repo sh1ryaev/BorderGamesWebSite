@@ -1,0 +1,51 @@
+.sale_button{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.sale_p{
+  position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+.grey_color{
+  background-color: lightgrey;
+}
+.div_brands{
+  margin: 1%;
+}
+.div_brands_a{
+  padding: 1%;
+}
+.visability{
+  opacity:  0.8;
+}
+.img{
+  background-image: url(https://hobbyworld.cdnvideo.ru/image/data/HW_SPRING1.jpg);
+ min-height: 650px;
+  background-repeat: no-repeat;
+    /* Center and scale the image nicely */
+  background-position: center;
+  background-size: cover;
+  /* Needed to position the navbar */
+  position: relative;
+  
+}
+.title_text{
+  font-size: 46px;
+  color: white;
+  margin-top: 10%;
+  text-shadow: 1px 1px 1px #000;
+}
+
+.margin-div{
+  margin-top: 45px;
+}
+.footer-padding{
+  padding: 0 5%;
+}
+.border-img{
+  border:0.7rem solid white;
+  border-radius: 2%;
+  box-shadow: 1px 1px 1px grey;
+}
